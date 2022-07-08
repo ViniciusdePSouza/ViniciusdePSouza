@@ -2,11 +2,9 @@
  <div style="display: inline_block"><br>
   <p>Olá! Eu sou o Vinícius !
  </div>
- 
 
-- 🔭 Estudante das tecnologias relacionadas a Front-End! HTML, CSS, JavaScript, React e TypeScript 
-- Email 📩: dev.souzavinicius@gmail.com
-- Amante dos esportes e da música ⚽🎶
+ <p>- 🔭 Estudante das tecnologias relacionadas à Front-End: HTML, CSS, JavaScript, React e TypeScript </p>
+ <p>- Amante dos esportes e da música ⚽🎶 </p>
 
 <div align="center">
   <a href="https://github.com/ViniciusdePSouza">
