@@ -4,7 +4,7 @@
  </div>
 
  <p>- 🔭 Estudante das tecnologias relacionadas à Front-End: HTML, CSS, JavaScript, React e TypeScript </p>
-  <p>- 💻 Tecnologias Back-End: Java, Nodejs </p>
+  <p>- 💻 Também estudo algumas tecnologias Back-End: Java, Nodejs </p>
  <p>- Amante dos esportes e da música ⚽🎶 </p>
 
 <div align="center" style="display: flex"><br>
