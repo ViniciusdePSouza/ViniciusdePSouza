@@ -19,6 +19,7 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
+  <img align="center" alt="Vini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
   <img align="right" alt="Yoda-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/335d3ff99067cf0f11ff6857c797814d1f40964024eaaa990354ad1854a7191b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f34663230616637356633323838373338346161623765343963333735333761652f74656e6f722e676966">
 </div>
 
