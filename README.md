@@ -1,11 +1,11 @@
  
  <div style="display: inline_block"><br>
-  <p>Olá! Eu sou o Vinícius !
+  <p>Hi there! My name is Vinícius !
  </div>
 
- <p>- 🔭 Estudante das tecnologias relacionadas à Front-End: HTML, CSS, JavaScript, React e TypeScript </p>
-  <p>- 💻 Também estudo algumas tecnologias Back-End: Java, Nodejs </p>
- <p>- Amante dos esportes e da música ⚽🎶 </p>
+ <p>- 🔭 Front-end student/developer: HTML, CSS, JavaScript, React e TypeScript </p>
+  <p>- 💻 I also study some Back-end technologies: Java, Nodejs </p>
+ <p>- I really love music and sports ⚽🎶 </p>
 
 <div align="center" style="display: flex"><br>
   <a href="https://github.com/ViniciusdePSouza">
