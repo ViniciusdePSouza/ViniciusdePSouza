@@ -3,7 +3,7 @@
   <p>Hi there! My name is Vinícius !
  </div>
 
- <p>- 🔭 Front-end student/developer: HTML, CSS, JavaScript, React e TypeScript </p>
+ <p>- 🔭 Front-end student/developer: HTML, CSS, JavaScript e React </p>
   <p>- 💻 I also study some Back-end technologies: Java, Nodejs </p>
  <p>- I really love music and sports ⚽🎶 </p>
 
