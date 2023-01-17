@@ -7,11 +7,11 @@
   <p>- 💻 I also study some Back-end technologies: Java, Nodejs </p>
  <p>- I really love music and sports ⚽🎶 </p>
 
-<div align="center" style="display: flex"><br>
+/*<div align="center" style="display: flex"><br>
   <a href="https://github.com/ViniciusdePSouza">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusdePSouza&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusdePSouza&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+</div>*/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
