@@ -3,8 +3,8 @@
   <p>Hi there! My name is Vinícius !
  </div>
 
- <p>- 🔭 Front-end developer: HTML, CSS, JavaScript and React </p>
-  <p>- 💻 I also study some Back-end technologies: Java, Nodejs </p>
+ <p>- 🔭 Front-end developer: Typescript, JavaScript, React, Angular, NextJS </p>
+  <p>- 💻 I also study some Back-end technologies: Nodejs, Express </p>
  <p>- I really love music and sports ⚽🎶 </p>
 
 <div align="center" style="display: flex"><br>
@@ -15,11 +15,13 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Vini-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Vini-Angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Vini-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Vini-TS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Vini-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Vini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
   <img align="center" alt="Vini-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="right" alt="Yoda-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/335d3ff99067cf0f11ff6857c797814d1f40964024eaaa990354ad1854a7191b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f34663230616637356633323838373338346161623765343963333735333761652f74656e6f722e676966">
